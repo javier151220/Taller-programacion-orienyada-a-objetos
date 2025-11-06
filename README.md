@@ -1,3 +1,3 @@
-# Taller-programacion-orienyada-a-objetos
-# Taller-programacion-orienyada-a-objetos
-# Taller-programacion-orienyada-a-objetos
+# Taller-programacion-orientada-a-objetos
+# Taller-programacion-orientada-a-objetos
+# Taller-programacion-orientada-a-objetos
